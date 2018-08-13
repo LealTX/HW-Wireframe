@@ -30,8 +30,7 @@ article {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 20px;
-    float: left;
-    width: 90%;
+    clear: both;
 }
 
 .smallDiv {
@@ -47,7 +46,7 @@ aside {
     margin: 10px 0 10px 20px;
     padding-left: 10px;
     width: 395px;
-    height: 335px;
+    height: 325px;
 }
 
 h1, p {

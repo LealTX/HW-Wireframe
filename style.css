@@ -21,7 +21,7 @@ section {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 20px;
-    width: 50%;
+    width: 495px;
     float: left; 
 }
 
@@ -45,9 +45,9 @@ aside {
     float: left;
     background-color: #ebebeb;
     margin: 10px 0 10px 20px;
-    padding: 20px;
-    width: 39.5%;
-    height: 295px;
+    padding-left: 10px;
+    width: 395px;
+    height: 335px;
 }
 
 h1, p {
